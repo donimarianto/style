@@ -1,0 +1,16 @@
+body{
+    margin: 10%;
+    background-color: tan;
+}
+.pink{
+    color: palevioletred;
+}
+
+.pink::after{
+    color: black;
+}
+
+.hijau{
+    color: green;
+    text-decoration: none;
+}
